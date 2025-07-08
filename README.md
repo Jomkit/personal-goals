@@ -1,45 +1,43 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
+I was inspired to open source a list of my personal goals thanks to Una Kravetz! Along with her original blurb, check out her guide below.
 
-# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
-1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
+[Original] Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
-I'm also doing 5 25-Days Projects in 2017:
+# Overarching Goals for 2025
+
+(This is still a rough draft, I'll probably add more to this later)
+
+1. Learn C++
+1. Learn Neovim
+1. Contribute to two Open Source Projects
+1. Get better at embedded software
+1. Write more blog posts
+1. Write some book reviews
+
+## I'd like to do some month-long projects in 2025:
 
 1. ⭕ Running
-2. 🌀 Writing Letters
-3. ✅ Mentorship
-4. ✅ Dev Doodles
-5. ✅ Meditation (23 consecutive)
+1. ⭕ Mindfulness Practices
+1. ✅ 30 Day Burpee Challenge (actually already completed)
 
-# [Date Normally Goes Here]
+# July 7th, 2025
 
-### This Week's Focus: N/A
+## This Week's Focus: Open Source
+
+I've been busy with life the last couple of weeks and have been regrettably shirking my open-source responsibilities, but I'm getting back on the horse this week.
 
 ### Things I'll do This Week:
 
-I haven't done this in a while, since I've moved to my bullet journal in September. However, you can look through the archive for ideas :) It's helped me for about 3 years!
+- [x] Read some programming articles on my reading list backlog
+- [x] Read some embedded software articles, also from my reading list backlog
+- [ ] Write a blog post (topic undetermined)
+- [ ] Program a simple arduino project, like a button press counter
 
-### Things I'll Do in the Future:
+### Things I'll Do this month (July 2025):
 
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Build something cool with Arduino
-- [ ] Create my own, or work on helping build a cleaner JS presentation framework
-- [ ] Create a typeface (hand-lettered monospace)
-- [ ] Make an electron app
-- [ ] Build a SlackBot (MyTime)
-- [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] "Walk Me Through JS" Video Series
-- [ ] Toolsday & Web Love stickers
-- [x] Implement offline support for my blog
-- [ ] Build an Offline Web App (Heiroglyph)
-- [ ] Raise money for women in tech organizations
-- [x] Read [Resilient Web Design](https://resilientwebdesign.com/)
+- [ ] Finish Reading [Code: The Hidden Language of Computer Hardware and Software](https://www.codehiddenlanguage.com/Chapter00/)
+- [ ] Finish Reading [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116932)
+- [ ] Set up my raspberry pi
+- [ ] Do some journaling
