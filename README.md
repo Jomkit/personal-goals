@@ -32,7 +32,7 @@ I've been busy with life the last couple of weeks and have been regrettably shir
 
 - [x] Read some programming articles on my reading list backlog
 - [x] Read some embedded software articles, also from my reading list backlog
-- [ ] Write a blog post (topic undetermined)
+- [x] Write a blog post (topic undetermined)
 - [ ] Program a simple arduino project, like a button press counter
 
 ### Things I'll Do this month (July 2025):
