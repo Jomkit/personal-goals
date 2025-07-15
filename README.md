@@ -7,33 +7,37 @@ I was inspired to open source a list of my personal goals thanks to Una Kravetz!
 
 # Overarching Goals for 2025
 
-(This is still a rough draft, I'll probably add more to this later)
-
 1. Learn C++
 1. Learn Neovim
-1. Contribute to two Open Source Projects
+1. Contribute to two Open Source Projects (Only one so far)
 1. Get better at embedded software
 1. Write more blog posts
 1. Write some book reviews
+1. Improve my typing skills, get above 100WPM
 
 ## I'd like to do some month-long projects in 2025:
 
 1. ⭕ Running
-1. ⭕ Mindfulness Practices (5 Consecutive)
+1. 🚧 Mindfulness Practices (7 Consecutive)
 1. ✅ 30 Day Burpee Challenge (actually already completed)
 
-# July 7th, 2025
+# July 14th, 2025
 
-## This Week's Focus: Open Source
+## This Week's Focus: WebGL / More Open Source
 
-I've been busy with life the last couple of weeks and have been regrettably shirking my open-source responsibilities, but I'm getting back on the horse this week.
+I'm juggling a lot of things right now, but I've wanted to learn WebGL for the longest time, and I have some ideas for incorporating it into other projects, so I want to put more focus on that this week. Likewise for open-source, I want to contribute more.
 
 ### Things I'll do This Week:
 
-- [x] Read some programming articles on my reading list backlog
-- [x] Read some embedded software articles, also from my reading list backlog
-- [x] Write a blog post (topic undetermined)
-- [ ] Program a simple arduino project, like a button press counter
+- [ ] Go to a networking event
+- [ ] Go to botanical garden
+- [ ] Get two PR's pushed in Glowrift-Duskhall (open-source project)
+- [ ] Write another Arduino program, this time incorporating other parts like maybe a motor
+- [ ] Write a blog post (a guide to PlatformIO setup)
+- [ ] Put two hours into studying C++ (0 so far)
+- [ ] Put two hours into studying WebGL (0 so far)
+- [ ] Finish a simple project (~4 hours?) showcasing WebGL
+- [ ] Look into how other people have added animations to their websites
 
 ### Things I'll Do this month (July 2025):
 
