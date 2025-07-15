@@ -21,3 +21,4 @@ For resources I use, and resources I want to check out
 - [ ] [three.js](https://threejs.org/) - for incredible *3D* animations
 - [ ] [react-spring](https://www.react-spring.dev/) - Web animations in react, because I wanted to add some animation to icons and other "small" things in my web apps. Compared to the above two, which seem more full-scale to me
 - [ ] [svgator](https://www.svgator.com/blog/) - Tool for creating svg animations I think, paid resource with a free tier. Want to check it out for now, and see if it's any good 
+- [ ] [wick editor](https://www.wickeditor.com/#/) - an open-source tool for animations
