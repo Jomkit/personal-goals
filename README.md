@@ -35,7 +35,7 @@ I'm juggling a lot of things right now, but I've wanted to learn WebGL for the l
 - [ ] Write another Arduino program, this time incorporating other parts like maybe a motor
 - [x] Write a blog post (a guide to PlatformIO setup)
 - [ ] Put two hours into studying C++ (1 so far)
-- [ ] Put two hours into studying WebGL (0 so far)
+- [ ] Put two hours into studying WebGL (1 so far)
 - [ ] Finish a simple project (~4 hours?) showcasing WebGL
 - [ ] Look into how other people have added animations to their websites
 
