@@ -18,7 +18,7 @@ I was inspired to open source a list of my personal goals thanks to Una Kravetz!
 ## I'd like to do some month-long projects in 2025:
 
 1. ⭕ Running
-1. 🚧 Mindfulness Practices (9 Consecutive)
+1. 🚧 Mindfulness Practices (10 Consecutive)
 1. ✅ 30 Day Burpee Challenge (actually already completed)
 
 # July 14th, 2025
@@ -33,7 +33,7 @@ I'm juggling a lot of things right now, but I've wanted to learn WebGL for the l
 - [x] Go to botanical garden
 - [ ] Get two PR's pushed in Glowrift-Duskhall (open-source project)
 - [ ] Write another Arduino program, this time incorporating other parts like maybe a motor
-- [ ] Write a blog post (a guide to PlatformIO setup)
+- [x] Write a blog post (a guide to PlatformIO setup)
 - [ ] Put two hours into studying C++ (1 so far)
 - [ ] Put two hours into studying WebGL (0 so far)
 - [ ] Finish a simple project (~4 hours?) showcasing WebGL
