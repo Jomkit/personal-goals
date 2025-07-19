@@ -18,7 +18,7 @@ I was inspired to open source a list of my personal goals thanks to Una Kravetz!
 ## I'd like to do some month-long projects in 2025:
 
 1. ⭕ Running
-1. 🚧 Mindfulness Practices (10 Consecutive)
+1. 🚧 Mindfulness Practices (11 Consecutive)
 1. ✅ 30 Day Burpee Challenge (actually already completed)
 
 # July 14th, 2025
