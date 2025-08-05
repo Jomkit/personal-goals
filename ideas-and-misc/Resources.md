@@ -22,3 +22,5 @@ For resources I use, and resources I want to check out
 - [ ] [react-spring](https://www.react-spring.dev/) - Web animations in react, because I wanted to add some animation to icons and other "small" things in my web apps. Compared to the above two, which seem more full-scale to me
 - [ ] [svgator](https://www.svgator.com/blog/) - Tool for creating svg animations I think, paid resource with a free tier. Want to check it out for now, and see if it's any good 
 - [ ] [wick editor](https://www.wickeditor.com/#/) - an open-source tool for animations
+- [ ] [spline](https://spline.design/) - web based 3D modeling tool
+- [ ] [Blender](https://www.blender.org/) - FOSS for 3d modeling, another great tool I've always meant to learn but always fell off after few tutorials
