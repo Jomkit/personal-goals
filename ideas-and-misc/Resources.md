@@ -24,3 +24,4 @@ For resources I use, and resources I want to check out
 - [ ] [wick editor](https://www.wickeditor.com/#/) - an open-source tool for animations
 - [ ] [spline](https://spline.design/) - web based 3D modeling tool
 - [ ] [Blender](https://www.blender.org/) - FOSS for 3d modeling, another great tool I've always meant to learn but always fell off after few tutorials
+- [ ] [GSAP](https://gsap.com/) - JavaScript animation library, framework agnostic
