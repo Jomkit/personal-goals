@@ -39,10 +39,11 @@ This week I'm gonna focus on more web development things, as I've been shirking 
 - [ ] Write another Arduino program, this time incorporating other parts like maybe a motor
 - [ ] Write a blog post
 - [ ] Put two hours into studying C++ (0 so far)
-- [ ] Put two hours into studying WebGL (0 so far)
-- [ ] Look into how other people have added animations to their websites
+- [ ] Put two hours into studying WebGL (1 so far)
+- [x] Look into how other people have added animations to their websites
 
 ### Unexpected Accomplishments This Week
+- [x] Read some tutorials and articles on CSS Animations, learned about methedology and best practice
 
 ### Things I'll Do this month (Aug 2025):
 
