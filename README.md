@@ -38,7 +38,7 @@ This week I'm gonna focus on more web development things, as I've been shirking 
 - [ ] Learn about Next.js
 - [ ] Write another Arduino program, this time incorporating other parts like maybe a motor
 - [ ] Write a blog post
-- [ ] Put two hours into studying C++ (1 so far)
+- [x] Put two hours into studying C++ (2.5 so far)
 - [ ] Put two hours into studying WebGL (1 so far)
 - [x] Look into how other people have added animations to their websites
 
